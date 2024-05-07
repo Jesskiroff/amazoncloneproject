@@ -32,3 +32,29 @@ padding: 10px;
 border: none;
 width:100%;
 }
+.header__option{
+  display: flex;
+  flex-direction:column;
+  margin-right:10px;
+  margin-left: 10px;
+  color:white;
+}
+
+.header__nav{
+  display:flex;
+  justify-content: space-evenly;
+}
+
+.header__optionLineOne{
+  font-size:10px;
+}
+
+.header__optionLineTwo{
+  font-size:13px;
+  font-weight:800;
+}
+.header__optionBasket{
+  display: flex;
+  align-items: center;
+  color:white;
+}
