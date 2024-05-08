@@ -5,21 +5,22 @@ function Product() {
   return (
     <div className='product'>
       <div className='product__info'>
-        <p>My first product</p>
+        <p>How to Make a Few Billion Dollars Hardcover</p>
         <p className= 'product__price'> 
             <small>$</small>
-            <strong>19.99</strong>
+            <strong>20.99</strong>
         </p>
         <div className='product__rating'>
             
         <p>🌟</p>
-        <p>🌟</p>
-        <p>🌟</p>
+        
 
         </div>
       </div>
 
-      <img src='' alt=''></img>
+      <img src='https://m.media-amazon.com/images/I/71K9SfihudL._SY342_.jpg' alt=''></img>
+
+      <button>Add to Cart</button>
     </div>
   )
 }
