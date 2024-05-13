@@ -14,14 +14,18 @@ function Home() {
         
 
       <div classname="home__row">
-        <Product/>
-        <Product/>
+        
         
       </div>
 
       <div classname="home__row">
-        <Product/>
-        <Product/>
+        <Product
+        title= 'How to Make a Few Billion Dollars Hardcover' 
+        price={29.99} 
+        image='https://m.media-amazon.com/images/I/71K9SfihudL._SY342_.jpg' alt='' 
+        rating={5}
+        />
+        
       </div>
 
       <div classname="home__row">
