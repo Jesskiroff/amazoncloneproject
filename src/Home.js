@@ -20,9 +20,8 @@ function Home() {
       </div>
 
       <div classname="home__row">
-        {/* Product */}
-        {/* Product */}
-        {/* Product */}
+        <Product/>
+        <Product/>
       </div>
 
       <div classname="home__row">
