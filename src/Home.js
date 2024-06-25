@@ -39,7 +39,7 @@ function Home() {
             alt=""
             rating={5}
           />
-          <Product
+          <Product 
             title="Nextmug - Temperature-Controlled, Self-Heating Coffee Mug (Black - 14 oz.)"
             price={99.95}
             image="https://m.media-amazon.com/images/I/71D51fALypL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
